@@ -26,4 +26,4 @@ Leveraging Excel's powerful tools, I was able to:
 2.Perform various statistical calculations and analyses.
 3.Create visually appealing and informative dashboards.
 
-This project has strengthened my skills in data analysis and visualization. Looking forward to applying these techniques to future projects and contributing to data-driven decision-making. hashtag#dataanalysis hashtag#businessintelligence hashtag#bankchurn hashtag#datascience hashtag#dataanalysis hashtag#excel hashtag#businessinsights hashtag#dashboards hashtag#datavisualization hashtag#projectcompletion hashtag#learningnewskills hashtag#professionaldevelopment hashtag#exceldashboard hashtag#excelcharts hashtag#datacleansing hashtag#datastorytelling hashtag#datascience hashtag#analytics
+This project has strengthened my skills in data analysis and visualization. Looking forward to applying these techniques to future projects and contributing to data-driven decision-making. 
